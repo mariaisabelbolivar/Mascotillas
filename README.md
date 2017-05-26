@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+﻿## Bienvenidos a la web definitiva sobre... ¡MASCOTAS!
 
-You can use the [editor on GitHub](https://github.com/mariaisabelbolivar/Mascotillas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+El sitio web para los amantes de los gatos, los perros, los loros, los periquitos, los canarios, los hámsters, las cobayas, los conejos, las ardillas, las iguanas, las tortugas los peces de colores, las serpientes y todos aquellos animales que nos alegran los días con su presencia en casa.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### El rincón felino
 
-### Markdown
+¿Tienes un gato que es un sibarita y desde que no quiere las latas de Whiskas no sabes qué darle de comer? ¿O acaso tu gato está deprimido porque con la llegada de un nuevo bebé a casa se siente destronado? ¿Cuáles son los mejores champús para los gatos de angora? Sea cual sea la pregunta que tengas sobre tu gato, ¡seguro que la encontrarás la respuesta en _El rincón felino_!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Guau guau guá
 
-```markdown
-Syntax highlighted code block
+¡Guauuuu! ¡Guauuuu! ¡Guauuuu! Todo lo que quieras saber sobre tu perro lo encontrarás en **¡Guau guau guá!**
 
-# Header 1
-## Header 2
-### Header 3
+### Glu glups
 
-- Bulleted
-- List
+¿Lo tuyo son esos seres viscosos que sienten devoción por el agua? Aprende aquí a montar y cuidar tu propio acuario.
 
-1. Numbered
-2. List
+- Peces de colores
+- Peces payaso
+- Peces globo
+- Etc., etc., etc.
 
-**Bold** and _Italic_ and `Code` text
+### Volando no voy
 
-[Link](url) and ![Image](src)
-```
+Si lo que te va es encerrar a pobres pajaritos que sin duda estarían mejor en libertad que en la jaula en que te empeñas en meterlos, ¡este es tu lugar, so sádico!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Mascotas rarunas
 
-### Jekyll Themes
+Si eres tan original que no te conformas con un vulgar chucho ni nada por el estilo, aquí encontrarás toda la información que necesitas.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mariaisabelbolivar/Mascotillas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Iguanas
+- Cocodrilos
+- Ranas
+- Tortugas
+- Y etcétera de etcétera.
 
-### Support or Contact
+---------------
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Todo esto y mucho más en [Mascotillas](https://mariaisabelbolivar.github.io/Mascotillas/), ¡guárdatela en tus marcadores, o te enviaremos a tu casa a una manada de pequineses para que te ladre en la puerta hasta que la guardes!
